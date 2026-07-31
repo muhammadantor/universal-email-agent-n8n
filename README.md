@@ -81,7 +81,7 @@ Low Confidence  → Ack + Admin Draft Alert
 
 ### Architecture Diagram
 
-![System Architecture](docs/email_agent_architecture.png)
+![System Architecture](email_agent_architecture.png)
 
 ### Layer Overview
 
