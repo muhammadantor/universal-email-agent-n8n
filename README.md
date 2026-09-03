@@ -9,11 +9,27 @@
 [![Groq](https://img.shields.io/badge/Groq_Llama_3.3-F55036?style=for-the-badge&logoColor=white)](https://groq.com)
 [![Gmail](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://developers.google.com/gmail)
 [![Self-Hosted](https://img.shields.io/badge/Self--Hosted-00B894?style=for-the-badge&logo=docker&logoColor=white)](https://docs.n8n.io/hosting/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-F87171?style=for-the-badge)](LICENSE)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=Universal+Email+Agent+%7C+n8n+%2B+Dual-AI+%F0%9F%A4%96;46+Nodes+%7C+10+Layers+%7C+OCR+%2B+Sentiment+%2B+Confidence;Prompt+Injection+Protected+%7C+Zero+Email+Loss;100%25+Self-Hosted+%7C+Production-Grade)](https://git.io/typing-svg)
 
 <br/>
 
 > **🤖 An intelligent, production-ready email automation agent that reads, classifies, and responds to every email — automatically.**
+
+</div>
+
+---
+
+## 🎬 Watch It in Action
+
+<div align="center">
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Explanation%20Video-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/v/1JAQSxqaDF/)
+
+> 📹 Full system explanation — architecture, AI pipeline, and how it handles real emails end-to-end.
 
 </div>
 
@@ -254,7 +270,17 @@ I build production-grade AI automation systems that eliminate manual business wo
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+This project is licensed under a **Proprietary License — All Rights Reserved**. See [`LICENSE`](LICENSE) for full terms.
+
+```
+Copyright © 2026 Muhammad Antor / AutomateIQ Labs. All rights reserved.
+
+✅ Permitted: Viewing this repository for portfolio/reference purposes.
+❌ Not Permitted: Copying, redistributing, reselling, or deploying this
+   system (or a substantially similar rebuild) without written consent.
+```
+
+> This documentation showcases architecture and engineering decisions. It is not a license to reproduce the system commercially.
 
 ---
 
