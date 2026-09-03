@@ -257,14 +257,21 @@ Use these test cases to verify your setup:
 
 ## 👨‍💻 About The Builder
 
-**Muhammad Antor** — AI Automation Engineer | Founder of AutomateIQ Labs
+<div align="center">
 
-I build production-grade AI automation systems that eliminate manual business work.
+<img src="https://github.com/muhammadantor.png" width="100" style="border-radius:50%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-antor)
-[![Facebook](https://img.shields.io/badge/AutomateIQ_Labs-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/automateiq.labs/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/muhammadantor)
-[![Email](https://img.shields.io/badge/Hire_Me-EA4335?style=flat-square&logo=gmail)](mailto:muhammadantor71@gmail.com)
+### Muhammad Antor
+**AI Automation Engineer | AutomateIQ Labs ⚡**
+
+*I build production-grade AI automation systems that eliminate manual business work.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-antor)
+[![Facebook](https://img.shields.io/badge/AutomateIQ_Labs-Follow-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/automateiq.labs/)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:muhammadantor71@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/muhammadantor)
+
+</div>
 
 ---
 
