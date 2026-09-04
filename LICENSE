@@ -1,0 +1,27 @@
+Proprietary License — All Rights Reserved
+
+Copyright (c) 2026 Muhammad Antor / AutomateIQ Labs
+
+This repository and its contents (including but not limited to documentation,
+architecture diagrams, and descriptions of system design) are the property of
+Muhammad Antor / AutomateIQ Labs.
+
+Permission is granted to view this repository for personal, educational, and
+portfolio-evaluation purposes only.
+
+The following are NOT permitted without prior written consent from the copyright holder:
+  - Copying, reproducing, or redistributing this documentation
+  - Using this documentation to construct, deploy, or sell a substantially
+    similar system
+  - Commercial use of any kind
+  - Sublicensing or reselling any part of this repository
+
+This repository does not include the underlying n8n workflow export, AI system
+prompts, or exact node configuration used in the production system it describes.
+
+For licensing inquiries or custom development requests, contact:
+muhammadantor71@gmail.com
+
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
